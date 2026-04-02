@@ -1,10 +1,10 @@
 
 Zásady ochrany osobních údajů
 
-Správce údajů:
-TARGET – MD s.r.o.
-Thákurova 536/14, Praha 6, 160 00
-IČO: 26454246, DIČ: CZ26454246
+Správce údajů: \
+TARGET – MD s.r.o. \ 
+Thákurova 536/14, Praha 6, 160 00 \
+IČO: 26454246, DIČ: CZ26454246 \
 
 E-mail: sekretariat@target-md.com
 
